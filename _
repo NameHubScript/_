@@ -3,7 +3,7 @@
     <3
 ]]
 --[[
-  >> Change log <<
+  >> 13/07/2025 Change log <<
    Auto quest internals changed to regex, multiple fixes made
    Auto bubbles fixed, and added auto fuzzy bombs
    Fixed bug where script would break when dying while collecting token
