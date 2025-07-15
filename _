@@ -3,6 +3,11 @@
     <3
 ]]
 --[[
+  >> 15/07/2025 Change log <<
+ The UI should work much better on mobile
+ Folded the "Sprout rarities" and "Boosters" toggles into multi dropdowns
+ I forgot what else i changed
+
   >> 13/07/2025 Change log <<
  Added moon toggle for sprouts bc i forgot
  Auto quest internals changed to regex
